@@ -56,7 +56,7 @@ export default function Home() {
       </section>
 
       <section className="how" id="how"><div><div className="section-kicker">THE SLOTH PHILOSOPHY</div><h2>Productivity,<br /><em>without the pressure.</em></h2></div><div className="principles"><article><span>01</span><h3>Break it down</h3><p>Open-source AI turns big, scary tasks into small steps your brain can actually start.</p></article><article><span>02</span><h3>Keep it human</h3><p>No hustle metrics. No guilt. Your plan adapts to your energy, not the other way around.</p></article><article><span>03</span><h3>Own your data</h3><p>Run the model locally with Ollama. Your tasks stay yours, because privacy is a feature.</p></article></div></section>
-      <footer id="about"><span>◒ slothdesk</span><span>Built slowly with open-source AI · MIT licensed</span><a href="https://github.com/">View on GitHub ↗</a></footer>
+      <footer id="about"><span>◒ slothdesk</span><span>Built slowly with open-source AI · MIT licensed</span><a href="https://github.com/samainakhatun115-cpu/slothdesk">View on GitHub ↗</a></footer>
     </main>
   );
 }
